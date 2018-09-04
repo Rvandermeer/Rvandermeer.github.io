@@ -3,3 +3,8 @@
 .kn-content h2{
     font-family: 'Open Sans', sans-serif;
 }
+
+.kn-content h1, .kn-content h2, .kn-content h3, .kn-content h4, .kn-content h5, .kn-content h6, .kn-form h1, .kn-form h2, .kn-form h3, .kn-form h4, .kn-form h5, .kn-form h6 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
